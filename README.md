@@ -33,4 +33,4 @@ Link prediction based on similarity-based methods can be classified into three t
 Data is devided into training and test dataset, on ratio of 80% and 20%, respectively. Run all discussed algorithms on the training dataset, compute the similarity scores for each possible node pairs and validate them against the test dataset. **True positive** are recommendations which exist in the test dataset, while **false positive** are recommendations which are not in the test dataset. Connections which appear in the test dataset but are not recommended by the algorithms are considered as false negative.
 
 ROC Curve and AUC scores are used to evaluate the prediction accuracy.
-![Result](util/result.png)
+<img src="util/result.png" width=400 class="center">
