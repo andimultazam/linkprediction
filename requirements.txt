@@ -1,0 +1,3 @@
+requests==2.18.4
+pyspark==2.4.3
+numpy==1.17.2
